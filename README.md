@@ -1,6 +1,5 @@
 # Stock Price Analysis and Prediction Using LSTM: A Case Study on Tesla, Inc.
 
-![Tesla logo](https://raw.githubusercontent.com/elonmusk/tesla-data/main/assets/tesla-logo.png)
 
 > **Disclaimer :** This repository is for educational research only and **does not constitute investment advice**. All opinions are the author’s own.
 
